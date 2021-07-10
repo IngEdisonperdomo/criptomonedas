@@ -1,7 +1,7 @@
 # París
 Es un proyecto hecho en React Native para ver precio criptomonedas
 
-![test1](https://repository-images.githubusercontent.com/371205301/f5d0ac80-be65-11eb-8a64-007d6eee87c0)
+![test1](https://repository-images.githubusercontent.com/371205860/cebafb00-e0f2-11eb-9d93-3622fb5374b4)
 
 
 
