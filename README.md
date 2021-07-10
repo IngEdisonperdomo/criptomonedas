@@ -5,7 +5,7 @@ Es un proyecto hecho en React Native para ver precio criptomonedas
 
 
 
-# BlankProject
+# Project
 
 Este proyecto esta hecho con React Native
 
